@@ -2,10 +2,6 @@ let frase = prompt("Ingrese una frase");
 console.log(frase);
 console.log(frase.length);
 console.log(frase.charAt(0));
-// Cambiar a minuscula
-console.log(frase.toLowerCase());
-// Cambiar valor de variable frase
-frase = frase.toLowerCase();
 
 // Hola mundo
 
